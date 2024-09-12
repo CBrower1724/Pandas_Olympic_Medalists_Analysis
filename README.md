@@ -1,0 +1,1 @@
+This file is from the in class problems we worked on regarding the Medallists Questions. In this notebook we answered ten questions using different code to retrieve data from the same data set. We found information regarding the olympics and the events, sports, participants, and much more.  
